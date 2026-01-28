@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rushikesh-Potdar
 - 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning iOS
+- 🌱 Working as iOS developer from last 3 years
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rushikeshpotdar411@gmail.com
 
